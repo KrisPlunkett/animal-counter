@@ -10,4 +10,4 @@
 ### How does it work?
 * The amazing power of Javascript interacting with the DOM
 * The beautiful styling of Bootstrap
-* Minimalist, artisan CSS
+* Stunning, artisinal CSS 
