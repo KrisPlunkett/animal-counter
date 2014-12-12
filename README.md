@@ -5,7 +5,7 @@
 - - -
 
 ### What is it?
-* An incredible new way to count your cats and dogs
+* An incredible new way to sum your cats and dogs
 
 ### How does it work?
 * The amazing power of Javascript interacting with the DOM
