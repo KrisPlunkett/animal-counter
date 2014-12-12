@@ -1,9 +1,7 @@
 # Animal Counter
 
-> an amazing new way to count your animals!
-
 <a href="http://krisplunkett.github.io/animal-counter/"><img src="animal-counter.png" alt="Demo Image"></a>
-## <a href="">Checkout the demo!</a>
+## <a href="http://krisplunkett.github.io/animal-counter/">Now you can count your animals!</a>
 - - -
 
 ### What is it?
