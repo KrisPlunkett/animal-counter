@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset ="utf-8">
+	<title>A Javascript Todo List</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<h1 class="text-center title">-- Animal Counter --</h1>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-6">
+			<h2>How many cats do you have?</h2>
+				<ol id="cats"></ol>
+				<button type="button" class="btn btn-primary" onclick="addCat()"><span class="glyphicon glyphicon-plus"></span>  Add</button>
+				<button type="button" class="btn btn-danger	" onclick="removeCat()"><span class="glyphicon glyphicon-minus"></span>  Remove</button>
+		</div>
+
+		<div class="col-md-6">
+			<h2>How many dogs do you have?</h2>
+				<ol id="dogs"></ol>
+				<button type="button" class="btn btn-primary" onclick="addDog()"><span class="glyphicon glyphicon-plus"></span>  Add</button>
+				<button type="button" class="btn btn-danger" onclick="removeDog()"><span class="glyphicon glyphicon-minus"></span>  Remove</button>
+
+		</div>
+
+	</div>
+</div>
+
+<script src="myscript.js"></script>
+</body>
+</html>
