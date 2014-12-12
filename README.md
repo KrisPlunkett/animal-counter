@@ -1,7 +1,7 @@
 # Animal Counter
 
 <a href="http://krisplunkett.github.io/animal-counter/"><img src="animal-counter.png" alt="Demo Image"></a>
-## <a href="http://krisplunkett.github.io/animal-counter/">Now you can count your animals!</a>
+## <a href="http://krisplunkett.github.io/animal-counter/">DEMO</a>
 - - -
 
 ### What is it?
